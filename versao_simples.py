@@ -12,7 +12,7 @@ import sqlite3
 from time import sleep
 
 st.set_page_config(
-    page_title="Consulta_SSW",
+    page_title="https://docs.google.com/spreadsheets/d/1MnvXlKEnP8P-E6SRz96sqQBc_LPk-JBZ/edit?usp=sharing&ouid=103117004489997500820&rtpof=true&sd=true",
     page_icon=":robot_face:",
     layout="wide",
     initial_sidebar_state="expanded"
